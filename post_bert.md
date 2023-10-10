@@ -1,7 +1,7 @@
 ---
 layout: page
-title: blog
-permalink: /blogpost_bert/
+title: posts
+permalink: /post_bert/
 ---
 
 <center>

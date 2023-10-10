@@ -1,7 +1,7 @@
 ---
 layout: page
-title: blog
-permalink: /blogpost_gpt/
+title: posts
+permalink: /post_gpt/
 ---
 
 <center>

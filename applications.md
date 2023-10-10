@@ -24,13 +24,13 @@ permalink: /applications/
 
 <center><p><span style="color:grey">Here is a list of selected demo applications for common NLP tasks in the Italian language</span></p></center>
 <br>
-<center><p><span style="color:grey">🏷️ Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_text_classification/">Text Classification</a> App<br>A demo for a Text Classification app based on the Italian DistilUSE model of the "Water" collection</span></p></center>
+<center><p><span style="color:grey">🏷️ Demo <a href="https://francesco-russo-githubber.github.io/osiria/demo_text_classification/">Text Classification</a> App<br>A demo for a Text Classification app based on the Italian DistilUSE model of the "Water" collection</span></p></center>
 <br>
-<center><p><span style="color:grey">🔍 Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_cased_ner/">Named Entity Recognition</a> App<br>(cased version)<br>A demo for a NER app based on the cased Italian BERT model from the "Earth" collection</span></p></center>
+<center><p><span style="color:grey">🔍 Demo <a href="https://francesco-russo-githubber.github.io/osiria/demo_cased_ner/">Named Entity Recognition</a> App<br>(cased version)<br>A demo for a NER app based on the cased Italian BERT model from the "Earth" collection</span></p></center>
 <br>
-<center><p><span style="color:grey">🔍 Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_uncased_ner/">Named Entity Recognition</a> App<br>(uncased version)<br>A demo for a NER app based on the uncased Italian BERT model from the "Earth" collection</span></p></center>
+<center><p><span style="color:grey">🔍 Demo <a href="https://francesco-russo-githubber.github.io/osiria/demo_uncased_ner/">Named Entity Recognition</a> App<br>(uncased version)<br>A demo for a NER app based on the uncased Italian BERT model from the "Earth" collection</span></p></center>
 <br>
-<center><p><span style="color:grey">🎯 Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_qa/">Extractive Question Answering</a> App<br>A demo for an EQA app based on the Italian DeBERTa model from the "Earth" collection</span></p></center>
+<center><p><span style="color:grey">🎯 Demo <a href="https://francesco-russo-githubber.github.io/osiria/demo_qa/">Extractive Question Answering</a> App<br>A demo for an EQA app based on the Italian DeBERTa model from the "Earth" collection</span></p></center>
 
 <br>
 <br>

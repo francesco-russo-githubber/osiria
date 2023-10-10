@@ -20,7 +20,7 @@ header_pages:
    - about.md
    - applications.md
    - models.md
-   - blog.md
+   - posts.md
    - contacts.md
 
 # Theme-specific settings

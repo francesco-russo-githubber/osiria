@@ -32,7 +32,7 @@ permalink: /models/
 <br>
 <center><h3><span style="color:grey">Osiria "Fire" Series 🔥</span></h3></center>
 <center><p><span style="color:grey">This collection is composed of innovative models and prototypes, meant for experimentation and research</span></p></center>
-<center><p><span style="color:grey">Based on a wide variety of Transformers architectures</span></p></center>
+<center><p><span style="color:grey">Based on a wide variety of Transformer architectures</span></p></center>
 <center><p><span style="color:grey">Explore the <a href="https://huggingface.co/collections/osiria/osiria-fire-series-651f480de3c862805599e7e5">Fire Collection</a></span></p></center>
   
 <br>

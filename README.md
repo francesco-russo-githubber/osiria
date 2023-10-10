@@ -2,6 +2,7 @@
 .vertical-text {
     writing-mode: vertical-lr;
     text-orientation: upright;
+    background-color:red;
 }
 </style>
 <br>

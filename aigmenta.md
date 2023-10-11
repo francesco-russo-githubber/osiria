@@ -9,7 +9,8 @@ permalink: /aigmenta/
 <br><br>
 
 <center><p><span style="color:grey">Aigmenta enhances your experience when consulting articles, knowledge bases, and search engine results</span></p></center>
-<center><p><span style="color:grey">It works on top of existing search engines, providing enhanced AI capabilities</span></p></center>
+<center><p><span style="color:grey">It works on top of existing search engines, providing advanced AI capabilities</span></p></center>
+<center><p><span style="color:grey">Similar to augmented reality enhancing user perception, augmented search enriches information consumption</span></p></center>
 
 <br><br>
 

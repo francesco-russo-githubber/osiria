@@ -32,7 +32,7 @@ permalink: /about/
 
 <center><p><span style="color:grey">Its mission is to provide developers, practitioners, and enthusiasts with top-notch models and tools for NLP tasks</span></p></center>
 
-<center><p><span style="color:grey">Enjoy a wide range of pre-built NLP applications for tasks like topic modeling, information extraction, and more</span></p></center>
+<center><p><span style="color:grey">Enjoy a wide range of NLP applications and models for tasks like topic modeling, information extraction, and more</span></p></center>
 
 <center><p><span style="color:grey">Dive into a useful collection of tutorials, guides, and tips, which will help you hone your NLP skills</span></p></center>
 

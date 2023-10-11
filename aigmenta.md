@@ -29,6 +29,6 @@ permalink: /aigmenta/
 
 <br><br>
 
-<center><p><span style="color:grey">Extracting useful connections and insights from collected data can be tedious for humans.</span></p></center>
+<center><p><span style="color:grey">Extracting useful information and insights from search results can be tedious for humans.</span></p></center>
 <center><p><span style="color:grey">Aigmenta's integrated AI module assists you in attaining a higher level of awareness</span></p></center>
 <center><img src="https://raw.githubusercontent.com/francesco-russo-githubber/osiria/main/nn_dots.png"></center>

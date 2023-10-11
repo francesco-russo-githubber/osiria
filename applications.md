@@ -12,7 +12,8 @@ permalink: /applications/
 <center><p><span style="color:grey"><b>Aigmenta:</b> an "Augmented Search" application, which enhances the capabilities of a search engine, providing greater information awareness</span></p></center>
 <center><p><span style="color:grey">At the core of Aigmenta lies an early-stage AI module called S.A.M.S. (Semantic Augmentation and Modeling System)</span></p></center>
 <center><p><span style="color:grey">S.A.M.S. is not a verbose virtual assistant, but rather an quiet intelligent agent, operating behind the scenes</span></p></center>
-<center><p><span style="color:grey">Link: ... coming soon! ...</span></p></center>
+<center><p><span style="color:grey">Explore <a href="https://francesco-russo-githubber.github.io/osiria/aigmenta/">Aigmenta and S.A.M.S.</a></span></p></center>
+<center><p><span style="color:grey">Or try a demo (coming soon)</span></p></center>
 
 <br>
 <br>

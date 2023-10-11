@@ -5,11 +5,11 @@ permalink: /aigmenta/
 ---
 
 <center><h3><span style="color:grey">Enhance your search experience</span></h3></center>
-<center><span style="color:grey"><p>Aigmenta enhances your experience when consulting articles, knowledge bases, and search engine results</span></p></center>
-  
+
 <br><br>
 
-<center><span style="color:grey"><p>It works on top of existing search engines, providing enhanced AI capabilities</span></p></center>
+<center><p><span style="color:grey">Aigmenta enhances your experience when consulting articles, knowledge bases, and search engine results</span></p></center>
+<center><p><span style="color:grey">It works on top of existing search engines, providing enhanced AI capabilities</span></p></center>
 
 <br><br>
 
@@ -26,9 +26,9 @@ permalink: /aigmenta/
 <br><br>
 
 <center><h3><span style="color:grey">Get deeper insights thanks to the integrated AI</span></h3></center>
-<center><p><span style="color:grey">Extracting useful connections and insights from collected data can be tedious for humans.</span></p></center>
-  
+
 <br><br>
 
-<center><p><span style="color:grey">This is why Aigmenta includes an integrated AI module that assists you in attaining a higher level of awareness</span></p></center>
+<center><p><span style="color:grey">Extracting useful connections and insights from collected data can be tedious for humans.</span></p></center>
+<center><p><span style="color:grey">Aigmenta's integrated AI module assists you in attaining a higher level of awareness</span></p></center>
 <center><img src="https://raw.githubusercontent.com/francesco-russo-githubber/osiria/main/nn_dots.png"></center>

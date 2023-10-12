@@ -13,7 +13,7 @@ permalink: /applications/
 <center><p><span style="color:grey">At the core of Aigmenta lies an early-stage AI module called S.A.M.S. (Semantic Augmentation and Modeling System)</span></p></center>
 <center><p><span style="color:grey">S.A.M.S. is not a verbose virtual assistant, but rather an quiet intelligent agent, operating behind the scenes</span></p></center>
 <center><p><span style="color:grey">Explore <a href="https://francesco-russo-githubber.github.io/osiria/aigmenta/">Aigmenta and S.A.M.S.</a></span></p></center>
-<center><p><span style="color:grey">Try a <a href="https://huggingface.co/spaces/osiria/aigmenta">demo</a></span></p></center>
+<center><p><span style="color:grey">Try a <a href="https://osiria-aigmenta.hf.space">demo</a></span></p></center>
 
 <br>
 <br>
